@@ -1,6 +1,3 @@
-# My-portfolio: Data analyst 
-
-## About me
 
 Hi everyone!👋 My name is ``Marija`` and I am junior data analyst. Originally I have master's degree in pharmacy and health management and 
 worked for pharmaceutical company as pharmacovigilance specialist and compliance specialist. Also I am a lecturer at university 
