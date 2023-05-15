@@ -1,16 +1,22 @@
-### Hi there 👋
+# My-portfolio: Data analyst 
 
-<!--
-**marijailjasenko/marijailjasenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi everyone!👋 My name is ``Marija`` and I am junior data analyst. Originally I have master's degree in pharmacy and health management and 
+worked for pharmaceutical company as pharmacovigilance specialist and compliance specialist. Also I am a lecturer at university 
+and teach Clinical trials to pharmacy students. I always been interested in data analysis and visualisation and so decided to develop 
+in this area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this repository you can find several projects which were made during my schooling and practice. 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="300"/> 
+</div>
+
+## Skills and technology ⚡
+- Data analysis tools: ``SQL``, ``Excel``;
+- Programming languages: ``Python``
+- Programming libraries: ``Pandas``, ``math``
+- Database management systems: ``MySQL``, ``PostgreSQL``
+- Data visualisation tools: ``Power BI``, ``Matplotlib``, ``seaborn``
+- Machine learning tools: ``scikit-learn``, ``TensorFlow``
